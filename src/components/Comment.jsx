@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 
 import { FaRegThumbsUp } from "react-icons/fa";
 import { FaThumbsUp, FaTrash } from "react-icons/fa";
-import { SlOptions } from "react-icons/sl";
 
 import { supabase } from "../supabase/supabase";
 import { useNavigate } from "react-router-dom";
